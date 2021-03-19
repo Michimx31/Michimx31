@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Michimx31 from Switzerland
 - 👀 I’m interested in Digitalization, IoT, Self-driving cars and all the interessting Tech Stuff 
 - 🌱 I’m currently learning DataScience, Python with Flask and Flutter (Dart)
-- 💞️ I’m looking to collaborate on everything interesting ;) 
-- 📫 How to reach me PM 
+
+
 
 <!---
 Michimx31/Michimx31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
